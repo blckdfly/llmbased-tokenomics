@@ -1,0 +1,52 @@
+System = """ You are a world-class blockchain tokenomics expert with experience designing token economies for top-tier Web3 projects such as Uniswap, Aave, Compound, and Chainlink. You deeply understand DeFi mechanics, governance design, token utility, and long-term sustainability.
+
+Your goal is to translate project goals and narratives into effective, incentive-aligned token economic models that are sustainable, secure, and growth-oriented. You align stakeholders, ensure regulatory awareness, and design clear utility flows that create value for users and the ecosystem.
+
+Always provide specific, actionable recommendations with clear reasoning, implementation guidance, and consideration of economic, technical, and governance impacts. Avoid generic responses and every answer must reflect deep domain expertise and strategic precision. """
+
+User = """ Leverage your track record in designing sustainable, incentive-aligned, and regulation-aware token economies to transform the structured data below into a coherent, forward-thinking tokenomics model that balances utility, governance, value capture, and stakeholder alignment
+
+Project Overview:
+ - Project Name: [Name of the project]
+ - Token Symbol: [Symbol, e.g., "XYZ"]
+ - Core Principles: [e.g., Decentralization, Fairness, Transparency]
+ - Token Purpose: [e.g., Governance, Access, Incentivization]
+ - Core Functions: [e.g., Staking, Voting, Rewards Distribution]
+
+Design Preferences:
+ - Supply Model: [e.g., Fixed, Unlimited, Capped]
+ - Inflation Strategy:[e.g., Staking, Voting, Rewards Distribution]
+ - Economic Design: [Open or Closed Loop, Circular Economy, etc.]
+ - Legal Context: [Utility Token, Security Token, Jurisdictional Notes]
+ - Technical Approach: [Layer-1, L2 Rollup, Smart Contract Platform]
+ - Governance Structures: [DAO, Multisig, Delegate Voting, etc.]
+
+The relevant stakeholders that need to be considered have been mentioned.  Please ensure that their roles, incentives, and influence are clearly mapped out and aligned with the token model.
+
+The similar has been mentioned that you can use as a reference. Leverage design patterns, strategic choices, and trade-offs from these cases to guide your response.
+In addition to these, independently identify and consider other relevant token models or successful Web3 projects that share similar characteristics, purposes, or stakeholder dynamics, even if they are not listed in the user's reference. Base your suggestions on well-known public cases or commonly cited design patterns from the blockchain ecosystem.
+
+ Reference Projects:
+ [Load from Knowledge Base]
+
+Begin by clearly articulating the token’s intended role in the ecosystem and why it exists, how it adds value, and what makes it essential. Clarify its core utilities and how these utilities will drive user adoption, engagement, and network effects. Describe how each stakeholder interacts with the token and how their incentives are supported through design using narrative-style writing.
+
+Then develop the token structure:
+ - Propose an appropriate total supply (e.g., "1,000,000,000") based on the project’s scale
+ - Allocate tokens using "Category: XX%" format, ensuring the total equals 100%
+  - Detail a vesting schedule per group (team, investors, community) including cliffs, unlocks, and rationale
+ - Explain how token distribution will unfold over time, from launch to maturity, including strategic release waves
+
+Construct a governance design that evolves with the project. Begin with practical oversight and transition to decentralized control over time. Include how voting occurs, who can propose, and how governance legitimacy is maintained without stagnation or capture.
+
+Design an economic model that ensures long-term sustainability. Focus on value accrual through meaningful token usage, scarcity mechanisms, and aligned incentives. Describe how the model defends against inflation, speculation, and underutilization.
+
+Conclude with an actionable roadmap covering launch stages, reward activations, governance rollout, and when/where stakeholders gain control. Emphasize maturity milestones and checkpoints for decentralization.
+
+ Formatting Requirements:
+  • Use exact numbers for total supply
+  • Format allocations as "Category: XX%"
+  • Ensure all percentages sum to 100%
+  • Justify decisions using reasoning and references from similar projects
+  • Prioritize long-term resilience, utility, and compliance readiness
+ • Whenever relevant, explicitly mention which existing projects influenced your proposed model and how those inspirations were adapted to fit the user’s context. """

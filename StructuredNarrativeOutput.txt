@@ -1,0 +1,71 @@
+Ljosra Tokenomics Model
+
+Token Role and Core Utilities
+
+Token Purpose: The Ljosra token (LJSR) is integral to fostering a decentralized ecosystem for ocean-based renewable energy systems. It acts as a medium for investment, a mechanism for rewarding contributors, and a governance tool for decision-making within the network. By leveraging LJSR, stakeholders can drive sustainable practices through carbon sequestration rewards and infrastructure development, while maintaining transparency and fairness.
+
+Core Utilities:
+1. Sequestration Rewards: LJSR incentivizes the capture and sequestration of carbon, aligning with sustainability goals.
+2. Infrastructure Staking: Participants stake LJSR to support and expand renewable energy infrastructure, securing both environmental benefits and financial returns.
+3. Governance Voting: Using LJSR, stakeholders can influence project directions and policies via a decentralized autonomous organization (DAO).
+4. Data Access: LJSR provides access to valuable data streams related to ocean energy and carbon metrics, stored on IPFS and verified through IoT-enabled MRV modules.
+
+Token Structure
+
+Total Supply: 1,000,000,000 LJSR
+
+Token Allocation:
+- Operators: 20%
+- Investors: 15%
+- Developers: 10%
+- Participants (Community): 25%
+- Verifiers: 5%
+- Ecosystem Reserve: 15%
+- Governance Incentives: 10%
+
+Vesting Schedule:
+- Operators & Developers: 4-year vesting with a 1-year cliff to ensure long-term commitment and alignment.
+- Investors: 2-year vesting with a 6-month cliff, balancing early support with gradual release to mitigate market volatility.
+- Community & Participants: Immediate access to a portion of rewards to encourage early engagement, with the remaining distributed over 3 years.
+- Ecosystem Reserve & Governance Incentives: Held in a multi-signature wallet with DAO oversight, released based on project milestones.     
+
+Token Distribution and Release Strategy
+
+Initial distribution will occur through a strategic token generation event (TGE), with allocations released in waves to maintain market stability and ensure liquidity. Following the TGE, a series of quarterly releases will occur, aligned with ecosystem development milestones.
+
+Governance Design
+
+Initial Governance Structure:
+- DAO Formation: Early governance via a steering committee to set foundational policies and frameworks.
+- Voting Mechanism: Quadratic voting to empower smaller stakeholders and prevent whale dominance.
+- Proposal Submission: Any LJSR holder can propose changes, requiring a minimum token stake to ensure commitment.
+
+Transition to Decentralized Control:
+-  Phase 1: Centralized oversight with stakeholder feedback loops.
+- Phase 2: Gradual transition to full DAO control within 3 years, with periodic reviews to prevent stagnation.
+- Governance Legitimacy: Regular audits and community reviews, inspired by models from Aave and Uniswap, ensuring transparency and adaptability.
+
+Economic Model
+
+Value Accrual and Sustainability:
+- Token Buyback Program: Profits from storage fees and surplus energy sales will be used to buy back LJSR, reducing supply and supporting price stability.
+- Dual Rewards System: Inspired by models like Curve DAO, providing incentives for both carbon capture and energy infrastructure, driving continuous engagement.
+- Scarcity Mechanisms: Capped supply with strategic buybacks and vesting, mitigating inflation and ensuring long-term value.
+
+Defense Against Inflation and Speculation:
+- Controlled Release: Managed token emissions aligned with project growth and demand.
+- Stakeholder Engagement: Continuous rewards for active participation in governance and network activities.
+
+Roadmap
+
+Launch Stages:
+- Stage 1: Token generation event and initial distribution (Month 1)
+- Stage 2: Activation of sequestration rewards and infrastructure staking (Month 3)
+- Stage 3: Governance rollout with DAO formation and initial voting (Month 6)
+- Stage 4: Full decentralization milestone, community-driven governance (Year 3)
+
+Maturity Milestones:
+- Quarterly Checkpoints: Evaluate progress and adjust strategies based on community feedback and market conditions.
+- Decentralization Milestone: Achieve full DAO control, inspired by The Graph's transition model, ensuring robust, community-led governance.
+
+This tokenomics model leverages best practices from successful Web3 projects while tailoring strategies to Ljosra's unique goals, ensuring sustainability, compliance, and stakeholder alignment.

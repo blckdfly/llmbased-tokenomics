@@ -1,0 +1,87 @@
+Project Overview:
+
+Project Name: Ljosra
+
+Nature of the Project:
+-  Type: Decentralized platform for climate-positive infrastructure
+- Functionality: Ocean wave energy generation, carbon capture, blockchain-based transparency and traceability
+- Intended Users: Communities, investors, ecological contributors, data validators
+- Value Proposition: Empowerment to fund clean energy and carbon removal, earn tokens through ecological contributions
+- Business Model: Revenue from energy generation, carbon credits, and ecological data validation
+
+Blockchain Infrastructure Recommendation:
+- Suggested Blockchain: Ethereum or a Layer 2 solution for scalability and lower transaction costs, ensuring high security and established ecosystem support.
+- Governance Design: DAO-based, emphasizing ecological contributions over token holdings to drive decision-making.
+
+Token Role within Ecosystem:
+
+- Token Classification: Hybrid (Utility and Governance)
+- Utility Functions:
+- Rewarding contributions to energy generation and carbon sequestration
+- Incentivizing data validation
+- Facilitating governance participation based on ecological impact
+
+Tokenomics Architecture:
+
+1. Total Supply: 1,000,000,000 tokens
+
+2. Token Allocation Plan:
+   - Community and User Incentives: 30%
+   - Ecological Contributors and Validators: 25%
+   - Development and Infrastructure: 20%
+   - Team and Advisors: 10%
+   - Reserve and Ecosystem Growth: 10%
+   - Initial Public Sale: 5%
+
+   Reasoning:
+   - A large portion is allocated to community and user incentives to drive engagement and ecological contributions, reflecting a model similar to Render (RNDR) which prioritizes rewarding operational roles.
+   - Development and Infrastructure allocation ensures ongoing platform improvements and innovations, akin to practices seen in projects like The Graph (GRT).
+   - A smaller portion is set for public sale to maintain a controlled entry into the market, facilitating regulatory compliance and stable growth.
+
+3. Vesting Strategy:
+   - Team and Advisors: 4-year vesting with a 1-year cliff
+   - Development and Infrastructure: Released based on project milestones
+   - Ecological Contributors and Validators: Continuous distribution based on contributions
+
+   Reasoning: Aligns incentives with long-term project growth and sustainability, ensuring commitment from the core team and contributors.  
+
+4. Utility Mechanisms:
+   - Staking: Participants can stake tokens to earn rewards, promoting network security and active participation.
+   - Rewards: Tokens distributed based on energy generation, carbon sequestration, and data validation contributions.
+   - Fee Participation: A portion of platform fees (e.g., from energy sales) is redistributed to token holders, enhancing token value.      
+
+Governance Structure:
+
+- Proposal Submission: Any DAO member can submit proposals, but prioritization is determined by ecological impact scores.
+- Voting: Weighted by ecological contributions rather than token holdings to ensure decisions benefit the ecosystem.
+- Progressive Decentralization: Initial oversight by the core team with a gradual transition to community-driven governance over two years. 
+
+Value Accrual Mechanisms:
+
+- Demand Generation: Driven by the need for tokens to participate in staking, governance, and ecological contributions.
+- Value Capture: Tokens accrue value through platform fees and increased demand for energy and carbon credits.
+- Inflation Control: Token release through rewards is tied to ecological impact, preventing dilution without corresponding utility.
+
+Phased Launch Strategy:
+
+1. Initial Distribution:
+   - Conduct a controlled public sale for initial liquidity.
+   - Distribute tokens to early ecological contributors and validators.
+
+2. Community Growth:
+   - Launch incentives for community engagement and ecological contributions.
+   - Foster partnerships with environmental organizations.
+
+3. Governance Activation:
+   - Establish the DAO framework and initiate the first community-led proposals.
+   - Transition governance to community control based on readiness.
+
+4. Ecosystem Expansion:
+   - Expand energy generation and carbon capture projects.
+   - Integrate additional blockchain-based transparency features for broader adoption.
+
+Design Principles:
+
+- Reflects patterns from successful projects like Render (RNDR) and The Graph (GRT) in terms of rewarding operational roles and ensuring sustainability.
+- Prioritizes long-term sustainability with clear, necessary utility and regulatory awareness.
+- Maintains fair and transparent distribution aligned with stakeholder interests.
