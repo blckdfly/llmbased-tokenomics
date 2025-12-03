@@ -43,8 +43,8 @@ except FileNotFoundError:
     print("File not found.")
     sys.exit(1)
 
-DEFAULT_HISTORICAL_DATASET_PATH = os.path.join("datasets", "historical_projects.json")
-
+# Reuse the same knowledge base file as the default historical dataset to avoid duplication
+DEFAULT_HISTORICAL_DATASET_PATH = "TokenomicsKnowledge.json"
 
 def load_historical_dataset(path: str) -> List[Dict]:
     try:
